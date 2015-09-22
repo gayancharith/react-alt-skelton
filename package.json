@@ -1,7 +1,7 @@
 {
-  "name": "madhumal-flux-react-app",
+  "name": "madhumal-alt-react-app",
   "version": "1.0.0",
-  "description": "basic flux-react boiler plate",
+  "description": "basic alt-react boiler plate",
   "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
