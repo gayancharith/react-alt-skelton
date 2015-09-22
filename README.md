@@ -1,7 +1,6 @@
 # react-alt-skelton
 
-# react-flux-skelton
-This is a simple skelton to get started with react and flux architecture. 
+This is a simple skelton to get started with react and flux architecture using alt flux implementation. 
 
 To get started,
 
